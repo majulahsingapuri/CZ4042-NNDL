@@ -1,1 +1,15 @@
 *.ipynb_checkpoints/
+
+Assignment 2/tokenizer/
+
+Assignment 2/outputs/
+
+Assignment 2/models/
+
+Assignment 2/Images/
+
+Assignment 2/embeddings/
+
+Assignment 2/data/
+
+*.zip
